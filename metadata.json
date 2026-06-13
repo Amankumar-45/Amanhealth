@@ -1,0 +1,6 @@
+{
+  "name": "Healthcare Analytics Dashboard",
+  "description": "A comprehensive healthcare analytics dashboard for managing patient demographics, disease trends, financials, physician performance, and AI-powered patient readmission prediction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
